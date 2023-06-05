@@ -1,0 +1,22 @@
+{
+  "name": "pokeapi-nodejs",
+  "version": "1.0.0",
+  "description": "- Marilyn Karina Mena Díaz\r - James Gamboa\r - Jason Umaña",
+  "main": "pokedexInteractiva.js",
+  "scripts": {
+    "start": "node -r esm pokedexInteractiva.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefArs/pokeAPI-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DefArs/pokeAPI-nodejs/issues"
+  },
+  "homepage": "https://github.com/DefArs/pokeAPI-nodejs#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
