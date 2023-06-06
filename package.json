@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/DefArs/pokeAPI-nodejs#readme",
   "dependencies": {
+    "axios": "^1.4.0",
     "isomorphic-fetch": "^3.0.0"
   }
 }
